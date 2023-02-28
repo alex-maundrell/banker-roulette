@@ -1,4 +1,4 @@
-Well this was almost straight forward. Perhaps if you are reading this, you would be able to shoot me a message about it. When I was coding this out, I thought I was done. When I ran it, it gave me an output of: 22  Strange right!? I realized I needed to add the names variable and put the random name in list brakets for it to work. I did not try to google why it would give me an integer for an answer instead of an inputed string.
+Well this was almost straight forward. Perhaps if you are reading this, you would be able to shoot me a message about it. When I was coding this out, I thought I was done. When I ran it, it gave me an output of: 22  Strange right!? I realized I needed to add the names variable and put the random name in list brackets for it to work. I did not try to google why it would give me an integer for an answer instead of an inputed string.
 
 I am taking a Python course through udemy.com. The instructor is Dr. Angela Yu. During this course there are many 'coding challenges' and other projects. The course name is: 100 Days of Code: The Complete Python Pro Bootcamp for 2023. 
 
